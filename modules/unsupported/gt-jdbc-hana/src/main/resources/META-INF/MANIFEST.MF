@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: gt-jdbc-hana
+Bundle-SymbolicName: gt-jdbc-hana
+Bundle-Version: 1.0.0.qualifier
+Export-Package: org.geotools.data.hana
+Class-path: ngdbc.jar gt-jdbc-8.6.jar gt-api-8.6.jar jts-1.12.jar 
+  xercesImpl-2.7.1.jar gt-referencing-8.6.jar vecmath-1.3.2.jar commons-pool-1.5.4.jar gt-metadata-8.6.jar gt-opengis-8.6.jar
+  jsr-275-1.0-beta-2.jar jai_core-1.1.3.jar jgridshift-1.0.jar gt-main-8.6.jar jdom-1.0.jar gt-data-8.6.jar commons-dbcp-1.3.jar 
+  commons-collections-3.1.jar
+
